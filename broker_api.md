@@ -1,5 +1,5 @@
 <p align="center"><img src="alipay.png">
-<h3 align="center">IE Money -- Alipay Broker Document</h3><hr>
+<h3 align="center">MY PAY -- Alipay Broker Document</h3><hr>
 </p>
 
 ```
