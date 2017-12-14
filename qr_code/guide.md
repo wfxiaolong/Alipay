@@ -10,6 +10,9 @@ This document targets at the technical person who are intending to integrate wit
 
 Quick Response Code (QR Code) consists of black squares arranged in a square grid on a white background, which can be read by an imaging device and processed. The required data are then extracted from patterns that are present in both horizontal and vertical components of the image, as depicted below.
 
+<p align="center">
+    <img alt="Parcel" src="img/qr_code.png" width="20%">
+</p>
 
 In this Merchant QR Code payment solution, a merchant can use a static QR Code to represent their cashier account.
 
