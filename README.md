@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Parcel" src="alipay_logo.png" width="60%">
+    <img alt="Parcel" src="alipay_logo.png" width="36%">
 </p>
 
 # Alipay
