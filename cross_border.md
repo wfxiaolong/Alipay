@@ -1,6 +1,6 @@
-<h1 align="center">New Cross-border Website Payment</h1><hr>
+<h1 align="center">New Cross-border Website Payment</h1>
 
-#### About This Guide
+## About This Guide
 
 **Audience and Purpose**
 
