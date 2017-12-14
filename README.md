@@ -8,7 +8,7 @@ Alipay, is a third-party payment platform under Ant Financial. Dedicates to prov
 
 ## Alipay Cross-border Online Payment
 
-<a href=""> New Cross-border Website Payment </a>
+<a href="cross_border/cross_border.md"> New Cross-border Website Payment </a>
 
 ## Alipay Cross-border In-Store Payment
 
