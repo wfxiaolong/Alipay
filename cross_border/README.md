@@ -20,14 +20,18 @@ For technical questions, please contact <a href="mailto:overseas_support@service
 For non-technical questions, like how to sign up with Alipay, please contact <a href="mailto:global.service@alipay.com">Global Merchant Business Support</a>.
 
 
-* <a href="introduction.md"> Introduction </a>
+<a href="introduction.md"> Introduction </a>
 
-* <a href="flow_experience.md"> Payment Flow and User Experience </a>
+<a href="flow_experience.md"> Payment Flow and User Experience </a>
 
-* <a href="integration.md"> Quick Integration </a>
+<a href="integration.md"> Quick Integration </a>
 
-* <a href="api_list.md"> API List </a>
+<a href="api_list.md"> API List </a>
 
-* <a href="digital_signature.md"> Digital Signature </a>
+* <a href="api_list.md"> Create_forex_trade </a>
 
-* <a href="reconciliation.md"> Reconciliation Files </a>
+* <a href="api_list.md"> Forex_refund </a>
+
+* <a href="api_list.md"> Single_trade_query </a>
+
+* <a href="api_list.md"> Notify_verify </a>
