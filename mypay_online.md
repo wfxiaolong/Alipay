@@ -1,5 +1,5 @@
 <p align="center"><img src="alipay.png">
-<h3 align="center">MY PAY -- Alipay Document</h3><hr>
+<h3 align="center">MY PAY -- Alipay Online Document</h3><hr>
 </p>
 
 ``
