@@ -1,6 +1,6 @@
-<div style="text-align:center"><img src="alipay.png">
+<p align="center"><img src="alipay.png">
 <h3>IE Money -- Alipay Broker Document</h3><hr>
-</div>
+</p>
 ``
 IE MONEY Alipay is the best way to access the chinese customers purse.
 ``
