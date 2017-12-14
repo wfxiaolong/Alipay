@@ -3,9 +3,9 @@
 
 The customer scans the merchant's Alipay QR code to pay
 
-:heavy_check_mark:No access costs  :heavy_check_mark:Easy set-up
+:heavy_check_mark: No access costs     :heavy_check_mark: Easy set-up
 
-:house:Snack stands | Grocery stores | Other service sectors
+:house: Snack stands | Grocery stores | Other service sectors
 
 * <a href="guide.md">About This Guide</a>
 * <a href="introduction.md">Introduction</a>
