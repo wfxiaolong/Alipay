@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Alipay
+# MYPAY
 
 This guide is wirtten for application developers who wants to integrate Alipay solution. Implementing this solution requires software development skills. You must write code that uses the API request and reply fields to integrate Alipay solution into your existing order management system.
 
@@ -15,7 +15,12 @@ This guide is wirtten for application developers who wants to integrate Alipay s
 
 <a href="mypay_offline.md"> MYPAY Offline </a>
 
-## Alipay  xxxxx
-xxxx
+## Alipay Cross-border Online Payment
 
-<a href="https://github.com/MypayTech/Alipay/edit/master">xxx</a>
+<a href=""> New Cross-border Website Payment </a>
+
+## Alipay Cross-border In-Store Payment
+
+<a href=""> Barcode Payment </a>
+
+<a href=""> Merchant QR Code Payment </a>
