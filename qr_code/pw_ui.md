@@ -2,7 +2,9 @@
 
 As the customer of the Merchant QR Code payment solution, you need first scan the QR code that is displaying in the merchant’s cashier counter. Subsequently, you need to input the amount and password respectively to complete the payment, as illustrated in Figure 1 (Note that the customer needs to be connected with the Internet).
 
-
+<p align="center">
+    <img alt="Parcel" src="img/pw.png" width="80%">
+</p>
 
 1. The merchant requests for a merchant QR code;
 2. The Alipay system receives the request and generate a merchant QR code;
