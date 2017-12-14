@@ -12,4 +12,4 @@ Alipay, is a third-party payment platform under Ant Financial. Dedicates to prov
 
 ## Alipay Cross-border In-Store Payment
 
-<a href=""> Merchant QR Code Payment </a>
+<a href="qr_code/qr_code.md"> Merchant QR Code Payment </a>
