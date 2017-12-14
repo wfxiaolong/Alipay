@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://mypay.tech/" target="_blank">
-    <img alt="Parcel" src="logo.png" width="60%">
-  </a>
+    <img alt="Parcel" src="alipay_logo.png" width="60%">
 </p>
 
 # Alipay
