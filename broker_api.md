@@ -1,6 +1,7 @@
 <p align="center"><img src="alipay.png">
 <h3 align="center">IE Money -- Alipay Broker Document</h3><hr>
 </p>
+
 ```
 IE MONEY Alipay is the best way to access the chinese customers purse.
 ```
@@ -119,7 +120,7 @@ Result:
 
 ```
 
-#####Result:
+##### Result:
 
 We can get payment result from the website directly. Synchronize.
 
