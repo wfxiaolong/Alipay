@@ -1,16 +1,16 @@
 <p align="center"><img src="alipay.png">
-<h3>IE Money -- Alipay Broker Document</h3><hr>
+<h3 align="center">IE Money -- Alipay Broker Document</h3><hr>
 </p>
-``
+```
 IE MONEY Alipay is the best way to access the chinese customers purse.
-``
+```
 
-####USAGE:
+#### USAGE:
 
 * Step 1: Register **Broker Account** from our managers.
 * Step 2: Intergrate in your platform. (API)
 
-####Protocol:
+#### Protocol:
 
 **Interface**
 
