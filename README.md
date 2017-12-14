@@ -6,6 +6,8 @@
 
 # Alipay
 
+This guide is wirtten for application developers who wants to integrate Alipay solution. Implementing this solution requires software development skills. You must write code that uses the API request and reply fields to integrate Alipay solution into your existing order management system.
+
 
 ## Alipay  xxxxx
 xxxx
