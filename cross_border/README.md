@@ -28,10 +28,10 @@ For non-technical questions, like how to sign up with Alipay, please contact <a 
 
 <a href="api_list.md"> API List </a>
 
-* <a href="api_list.md"> Create_forex_trade </a>
+* <a href="create_forex_trade.md"> Create_forex_trade </a>
 
-* <a href="api_list.md"> Forex_refund </a>
+* <a href="forex_refund.md"> Forex_refund </a>
 
-* <a href="api_list.md"> Single_trade_query </a>
+* <a href="single_trade_query.md"> Single_trade_query </a>
 
-* <a href="api_list.md"> Notify_verify </a>
+* <a href="notify_verify.md"> Notify_verify </a>
