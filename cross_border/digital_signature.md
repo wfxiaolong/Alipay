@@ -42,7 +42,6 @@ This is the pre-sign string.
 * If _input_charset is passed, it also shall be signed.
 * According to HTTP protocol, special character like &,@ needs to do URL encoding, therefore the request receiver can get correct value. In this situation, pre-sign string shall be the original value instead of encoded one. For example: calling a particular API need to sign the parameter email, the pre-sign string shall be email=test@msn.com, rather than email=test%40msn.com.
 <hr/>
-<br/>
 
 ### Signature Generation
 
