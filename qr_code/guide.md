@@ -22,5 +22,5 @@ In this context, the interface is the channel that the Alipay system provides th
 
 ### Customer Support
 
-For technical questions, please contact Global Merchant Technical Support. 
-For non-technical questions, like how to sign up with Alipay, please contact Global Merchant Business Support .
+For technical questions, please contact <a href="mailto:overseas_support@service.alibaba.com">Global Merchant Technical Support</a>. 
+For non-technical questions, like how to sign up with Alipay, please contact <a href="mailto:global.service@alipay.com">Global Merchant Business Support</a>.
