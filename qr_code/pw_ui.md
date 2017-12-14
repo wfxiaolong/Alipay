@@ -15,3 +15,17 @@ As the customer of the Merchant QR Code payment solution, you need first scan th
 7. The customer scans the QR code, input the amount and confirm to pay;
 8. The Alipay system sends a notification to the merchant’s server.
 9. At same time, the Alipay system sends a notification to the customer.
+
+<br/>
+
+## The User Interaction
+
+In the Merchant QR Code payment, the customers need to scan the QR Code and then input the payment amount to confirm, as illustrated.
+
+<p align="center">
+    <img alt="Parcel" src="img/ui1.png" width="80%">
+</p>
+
+<p align="center">
+    <img alt="Parcel" src="img/ui2.png" width="80%">
+</p>
