@@ -1,17 +1,18 @@
-<div style="text-align:center"><img src="alipay.png">
-<h3>IE Money -- Alipay Document</h3><hr>
-</div>
+<p align="center"><img src="alipay.png">
+<h3 align="center">MY PAY -- Alipay Document</h3><hr>
+</p>
+
 ``
-IE MONEY Mypay is the best way to access the chinese customers purse.
+MY PAY Alipay is the best way to access the chinese customers purse.
 ``
 
-####USAGE:
+#### USAGE:
 
 * Step 1: Regist account from our managers. <a href="https://mypay.tech">https://mypay.tech</a>
 * Step 2: Configure Your Callback URL.(Synchronize And Asynchronize) <a href="https://mypay.tech">https://mypay.tech</a>
 * Step 3: Intergrate in your platform.
 
-####Protocol:
+#### Protocol:
 
 **Interface**
 
@@ -46,7 +47,7 @@ http://callbackUrl.com/$tradeNo/$status/md5($tradeNo.$status.$api_key)
 
 ```
 
-#####Result:
+##### Result:
 
 We can get payment result from the website directly. Synchronize.
 But the only right way to judge is to access our backstage or asyn callback. And you can also receive an Email.
