@@ -19,9 +19,9 @@ For technical questions, please contact Global Merchant Technical Support.
 For non-technical questions, like how to sign up with Alipay, please contact Global Merchant Business Support .
 
 
-* <a href="cross_border/introduction.md"> Introduction </a>
+* <a href="introduction.md"> Introduction </a>
 
-* <a href="cross_border/flow_experience.md"> Payment Flow and User Experience </a>
+* <a href="flow_experience.md"> Payment Flow and User Experience </a>
 
 * <a href="cross_border/integration.md"> Quick Integration </a>
 
