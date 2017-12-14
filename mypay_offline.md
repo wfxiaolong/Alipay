@@ -1,16 +1,17 @@
-<div style="text-align:center"><img src="alipay.png">
-<h3>IE Money -- Alipay Offline Document</h3><hr>
-</div>
-``
-IE MONEY Alipay is the best way to access the chinese customers purse.
-``
+<p align="center"><img src="alipay.png">
+<h3 align="center">MY PAY -- Alipay Offline Document</h3><hr>
+</p>
 
-####USAGE:
+```
+IE MONEY Alipay is the best way to access the chinese customers purse.
+```
+
+#### USAGE:
 
 * Step 1: Regist account from our managers.
 * Step 2: Intergrate in your platform.
 
-####Protocol:
+#### Protocol:
 
 **Interface**
 
@@ -28,7 +29,7 @@ hasRate		   // [int] 0,1 是否包含了费率, 1 表示包含了.直接扣用�
 
 ```
 
-#####Result:
+##### Result:
 
 ```
 if (res.data.is_success == "TRUE")     // 直接支付成功了<br/>
