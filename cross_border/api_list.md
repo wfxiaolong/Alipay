@@ -1,20 +1,9 @@
+<h1 align="center">API List</h1>
 
+* <a href="create_forex_trade.md">Create_forex_trade</a>
 
-<a href=".md">Create_forex_trade</a>
-* <a href=".md">Request Parameters</a>
-* <a href=".md">Sync Response</a>
-* <a href=".md">Samples</a>
-* <a href=".md">Async Notification</a>
-* <a href=".md">Error Codes</a>
+<a href="forex_refund.md">Forex_refund</a>
 
-<a href=".md">Forex_refund</a>
+<a href="single_trade_query.md">Single_trade_query</a>
 
-<a href=".md">Single_trade_query</a>
-
-<a href=".md">Forex_compare_file</a>
-
-<a href=".md">Forex_liquidation_file</a>
-
-<a href=".md">Forex_rate_file</a>
-
-<a href=".md">Notify_verify</a>
+<a href="notify_verify.md">Notify_verify</a>
