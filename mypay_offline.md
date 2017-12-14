@@ -3,7 +3,7 @@
 </p>
 
 ```
-IE MONEY Alipay is the best way to access the chinese customers purse.
+MY PAY Alipay is the best way to access the chinese customers purse.
 ```
 
 #### USAGE:
