@@ -15,9 +15,9 @@ Note contains helpful suggestions or important statements contain information es
 
 **Customer Support**
 
-For technical questions, please contact <a href="mailto:overseas_support@service.alibaba.com">Global Merchant Technical Support</a>. 
+For technical questions, please contact <a href="mailto:overseas_support@service.alibaba.com">Merchant Technical Support</a>. 
 
-For non-technical questions, like how to sign up with Alipay, please contact <a href="mailto:global.service@alipay.com">Global Merchant Business Support</a>.
+For non-technical questions, like how to sign up with Alipay, please contact <a href="mailto:global.service@alipay.com">Merchant Business Support</a>.
 
 ## Content
 
