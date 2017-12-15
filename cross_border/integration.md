@@ -3,8 +3,6 @@
 **Payment:** Merchants can reference the following alipay demo code to do quick integration or directly check the API document and construct the http request to make the payment. This section illustrates the steps needed for demo code approach.
 
 
-<br/>
-
 #### Deploy/Run in Sandbox
 
 Take JAVA demo code using MD5 signature algorithm as an example. Import the demo code project into your IDE tool, like Eclipse, then run:
