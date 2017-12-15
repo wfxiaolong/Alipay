@@ -13,21 +13,24 @@ MYPay Alipay is the best way to access the chinese customers purse.
 
 #### Protocol:
 
-**Interface**
+Interface
 
 ```
 Method: HTTP PSOT
 
 https://mypay.iemoney.co.nz/api/scan_barcode
+```
 
 Data:
-userame        // [string] username
-barcode        // [string] scan barcode
-item           // [string] name for item
-price          // [string] total to pay
-hasRate		   // [int] 0,1 是否包含了费率, 1 表示包含了.直接扣用户这么多钱.
 
-```
+|Parameter	|Type 	|Description|
+|-----------|-------|-----------|
+|userame    |string | username|
+|barcode    |string | scan barcode|
+|item       |string | name for item|
+|price      |string | total to pay|
+|hasRate		|int    | 0,1 是否包含了费率, 1 表示包含了.直接扣用户这么多钱.|
+
 
 ##### Result:
 
