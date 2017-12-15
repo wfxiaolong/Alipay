@@ -19,17 +19,21 @@ MYPay Alipay is the best way to access the chinese customers purse.
 Method: HTTP POST
 
 https://mypay.iemoney.co.nz/api/getSubTransaction
+```
 
 Params:
-username       // [string] required
-password       // [string] required
-start_date     // [string] option   eg. "1991-11-26"
-end_date       // [string] option   eg. "2017-11-26"
-per_page       // [int]    option   eg. 10
-start_with     // [int]    option   eg. 0
-merchant_id    // [int]    option   eg. 10001 
 
-```
+|Parameter	|Type 	|Description|
+|-----------|-------|-----------|
+|username   |string |required   |
+|password   |string |required   |
+|start_date |string | option   eg. "1991-11-26"|
+|end_date   |string | option   eg. "2017-11-26"|
+|per_page   |int    | option   eg. 10|
+|start_with |int    | option   eg. 0|
+|merchant_id|int    | option   eg. 10001 |
+
+
 
 ```
 Example:
