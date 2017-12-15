@@ -1,9 +1,9 @@
 <p align="center"><img src="alipay.png">
-<h3 align="center">MY PAY -- Alipay Broker Document</h3><hr>
+<h3 align="center">MYPay -- Alipay Broker Document</h3><hr>
 </p>
 
 ```
-MY PAY Alipay is the best way to access the chinese customers purse.
+MYPay Alipay is the best way to access the chinese customers purse.
 ```
 
 #### USAGE:
