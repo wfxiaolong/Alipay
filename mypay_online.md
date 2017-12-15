@@ -20,16 +20,20 @@ MYPay Alipay is the best way to access the chinese customers purse.
 Method: HTTP GET
 
 https://mypay.iemoney.co.nz/api/onlinePayment/$mid/$subject/$price/md5($mid.$subject.$price.$api_key)/$order_no
+```
 
-mid       // [int] merchant id. Get from the backstage.
-subject   // [string] describe payment
-price     // [string] total to pay
-api_key   // [string] get from the backstage
-order_no  // [string] order number, identify the order (optional)
-		  //  Tips: trade_no = random_string('numeric', 16)
+|Parameter	|Type 	|Description|
+|-----------|-------|-----------|
+|mid        |int |merchant id, Get from the backstage|
+|subject    |string  |describe payment|
+|price      |string  |otal to pay|
+|api_key    |string  |get from the backstage|
+|order_no   |string  |order number, identify the order (optional)<br/>Tips: trade_no = random_string('numeric', 16)|
 
 All of the params should use urlencode.
-```
+
+<br/>
+
 
 ```
 Example:
