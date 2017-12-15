@@ -13,7 +13,7 @@ MYPay Alipay is the best way to access the chinese customers purse.
 
 #### Protocol:
 
-**Interface**
+Interface
 
 ```
 Method: HTTP POST
