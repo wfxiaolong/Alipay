@@ -9,7 +9,7 @@ MYPay Alipay is the best way to access the chinese customers purse.
 #### USAGE:
 
 * Step 1: Regist account from our managers. <a href="https://mypay.tech">https://mypay.tech</a>
-* Step 2: Configure Your Callback URL.(Synchronize And Asynchronize) <a href="https://mypay.tech">https://mypay.tech</a>
+* Step 2: Configure Your Callback URL.(Synchronize And Asynchronize) <a href="https://mypay.tech">https://mypay.iemoney.co.nz</a>
 * Step 3: Intergrate in your platform.
 
 #### Protocol:
