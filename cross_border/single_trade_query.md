@@ -1,5 +1,5 @@
 
-<p align="center"><img src="alipay.png">
+<p align="center"><img src="/alipay.png">
 <h3 align="center">MYPay -- Alipay Check Offline Payment</h3><hr>
 </p>
 
