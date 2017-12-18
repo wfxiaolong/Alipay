@@ -3,14 +3,12 @@
 </p>
 
 ``
-MYPay Alipay is the best way to access the Chinese customers purse. 
+
+MYPay Alipay is the best way to access the Chinese customers purse.
+
+The partners can use this API to obtain the information on transaction status.
+
 ``
-
-#### USAGE:
-
-* Step 1: Regist account from our managers. <a href="https://mypay.tech">https://mypay.tech</a>
-* Step 2: Intergrate Offline Payment API in your platform.
-* Step 3: Intergrate this API in your platform.
 
 #### Protocol:
 
@@ -19,17 +17,14 @@ MYPay Alipay is the best way to access the Chinese customers purse.
 ```
 Method: HTTP GET
 
-https://mypay.iemoney.co.nz/api/check_offline_payment/$alipay_trans_id
+https://mypay.iemoney.co.nz/api/check_offline_payment
 
-OR
-
-https://mypay.iemoney.co.nz/api/check_offline_payment/$partner_trans_id
 ```
 
 |Parameter	|Type 	|Description|
 |-----------|-------|-----------|
-|alipay_trans_id     |int |Order ID|
-|partner_trans_id    |int |Order ID|
+|alipay_trans_id     |int |Order ID (optional)|
+|partner_trans_id    |int |Order ID (optional)|
 
 <br/>
 
