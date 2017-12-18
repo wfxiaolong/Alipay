@@ -43,6 +43,6 @@ https://mypay.iemoney.co.nz/api/check_offline_payment?alipay_trans_id=2017121821
 
 #### Result:
 
-Customers can get the payment result if the payment is successful or not.
+Customers can get the payment result that if it is successful or not.
 
 
