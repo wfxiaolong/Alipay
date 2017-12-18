@@ -2,13 +2,11 @@
 <h3 align="center">MYPay -- Alipay Check Offline Payment</h3><hr>
 </p>
 
-``
-
+```
 MYPay Alipay is the best way to access the Chinese customers purse.
 
 The partners can use this API to obtain the information on transaction status.
-
-``
+```
 
 #### Protocol:
 
