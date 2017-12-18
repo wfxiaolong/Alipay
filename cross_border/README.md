@@ -35,4 +35,8 @@ For non-technical questions, like how to sign up with Alipay, please contact <a 
 
 * <a href="single_trade_query.md"> Single_trade_query </a>
 
-* <a href="notify_verify.md"> Notify_verify </a>
+#### USAGE:
+
+* Step 1: Regist account from our managers. <a href="https://mypay.tech">https://mypay.tech</a>
+* Step 2: Configure Your Callback URL.(Synchronize And Asynchronize) <a href="https://mypay.tech">https://mypay.iemoney.co.nz</a>
+* Step 3: Intergrate in your platform.
