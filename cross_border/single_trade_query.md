@@ -22,8 +22,7 @@ https://mypay.iemoney.co.nz/api/check_offline_payment
 
 |Parameter	|Type 	|Description|
 |-----------|-------|-----------|
-|alipay_trans_id     |varchar(16) |Order ID (optional)|
-|partner_trans_id    |varchar(16) |Order ID (optional)|
+|partner_trans_id    |varchar(32) |Order ID (optional)|
 
 <br/>
 
