@@ -28,7 +28,7 @@ https://mypay.iemoney.co.nz/api/onlinePayment/$mid/$subject/$price/md5($mid.$sub
 |subject    |string  |describe payment|
 |price      |string  |otal to pay|
 |api_key    |string  |get from the backstage|
-|order_no   |string  |order number, identify the order (optional)<br/>Tips: trade_no = random_string('numeric', 16)|
+|order_no   |string  |order number, identify the order (optional)<br/>Tips: order_no = random_string('numeric', 16)|
 
 All of the params should use urlencode.
 
