@@ -30,7 +30,7 @@ https://mypay.iemoney.co.nz/api/check_offline_payment
 ```
 Example:
 
-https://mypay.iemoney.co.nz/api/check_offline_payment?alipay_trans_id=2017121821001004130232299311
+https://mypay.iemoney.co.nz/api/check_offline_payment?partner_trans_id=2017121821001004130232299311
 
 ```
 
