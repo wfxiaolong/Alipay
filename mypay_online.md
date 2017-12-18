@@ -28,7 +28,7 @@ https://mypay.iemoney.co.nz/api/onlinePayment/$mid/$subject/$price/md5($mid.$sub
 |subject    |string  |describe payment|
 |price      |string  |otal to pay|
 |api_key    |string  |get from the backstage|
-|order_no   |string  |order number, identify the order (optional)<br/>Tips: trade_no = random_string('numeric', 16)|
+|order_no   |string  |order number, identify the order (optional)<br/>Tips: order_no = random_string('numeric', 16)|
 
 All of the params should use urlencode.
 
@@ -42,12 +42,12 @@ Call:
 https://mypay.iemoney.co.nz/api/onlinePayment/10209/IE_PRODUCT/1.00/aacda3da67342a0961faa7c631041871/2017080808080808
 
 Callback Synchronize:
-http://callbackURL.com/2017080808080808/TRADE_FINISHED
+http://callbackURL.com?trans_id=2017080808080808&trade_status=TRADE_FINISHED&partner_trans_id=201708027321311232017080808080808
 
 Callback Asynchronize:
-http://callbackUrl.com/2017080808080808/TRADE_FINISHED/aacda3da67342a0961faa7c631041871
+http://callbackUrl.com?trans_id=2017080808080808&trade_status=TRADE_FINISHED&partner_trans_id=201708027321311232017080808080808&sign=aacda3da67342a0961faa7c631041871
 
-http://callbackUrl.com/$tradeNo/$status/md5($tradeNo.$status.$api_key)
+// sign = md5($tradeNo.$status.$api_key)
 
 ```
 
