@@ -16,7 +16,7 @@ The partners can use this API to obtain the information on transaction status.
 ```
 Method: HTTP GET
 
-https://mypay.iemoney.co.nz/api/check_offline_payment
+https://mypay.iemoney.co.nz/api/check_order
 
 ```
 
@@ -30,7 +30,15 @@ https://mypay.iemoney.co.nz/api/check_offline_payment
 ```
 Example:
 
-https://mypay.iemoney.co.nz/api/check_offline_payment?alipay_trans_id=2017121821001004130232299311
+https://mypay.iemoney.co.nz/api/check_order?alipay_trans_id=20171218181454606499171215112104
+
+```
+
+#### Response:
+```
+Example:
+
+https://mypay.iemoney.co.nz/api/check_order?alipay_trans_id=2017121821001004130232299311
 
 ```
 
